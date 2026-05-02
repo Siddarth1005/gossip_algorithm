@@ -1,1 +1,1 @@
-# learning_prototypes
+# gossip broadcast algorithm
